@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <link rel="stylesheet"
+          href="style.css">
+    
+    <a href="joshua's.html"> National Parks</a>
+    <a href="index.html"> index</a>
+    <a href="Dogs.html"> Dogs</a>
+  </head>
+  
+  <body>
+    
+    <h1> National Parks in U.S.A</h1>
+    
+    <h3> YellowStone </h3>
+    
+    <img src="yellowstone.jpeg"
+         alt="yellowstone national park"
+         width="400"
+         height="300"/>
+    <h5>
+    <p> BY Inger@cc </p>
+    </h5>
+      
+     <li> First National Park</li>
+      <li> Yellowstone has around 1,000 to 3,000 earthquakes</li>
+      <li> More then 259 warerfalls </li>
+    
+    <h3> Grand canyon </h3>
+    <img src="grand%20canyon.jpg"
+         alt="Grand Canyon"
+         width="500"/>
+    <h5>
+    <p> By Grand Canyon NPS </p>
+    </h5>
+  
+    <li> It is in Arizona </li>
+      <li> considered one of the worlds wonders</li>
+    <li> the widest point is 18 miles long</li>
+    
+    <h3> Sequoi National Park </h3>
+    <img src="sequoi.jpeg"
+         alt=Seguoi park
+         height="200"
+         width="200"/>
+    <h5>
+    <p> BY Koiart7 Sequoia National park, CA</p>
+    </h5>
+    
+    <li>Has the most giant tree </li>
+    <li> most of the park has no roads and considered wilderness</li>
+    <li>seqoui trees are fire restiant</li>
+    
+    
+    
+    <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+    
+  </body>
+</html>
