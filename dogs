@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <link rel="stylesheet"
+          href="style2.css">
+    
+    <h2> Dogs </h2>
+    
+  </head>
+  
+  <body>
+    <!--picture of dog-->
+    
+    <img src="Dogs.jpeg"
+         alt="Dogs"
+         width="400"
+         height="300"
+         />
+  
+    
+    <p> Dogs are mans best friend and ahve been for years and years.They started out as wolfs then they got tammed. Dogs are not wild any more more of them are home dogs. </p>
+    
+    <a href="joshua's.html"> Parks</a>
+    <a href="index.html"> Links</a>
+    
+  </body>
+</html>
