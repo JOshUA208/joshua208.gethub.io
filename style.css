@@ -1,0 +1,14 @@
+body {
+  background: lightgrey;
+}
+
+h1 {
+  font-weight: bold;
+  outline-color: whitesmoke;
+  color: rgb(238,250,130)
+}
+
+h3 {
+  color:darkkhaki;
+}
+    
